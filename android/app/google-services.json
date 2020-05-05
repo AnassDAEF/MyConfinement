@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647369768295",
+    "firebase_url": "https://myconfinement-79697.firebaseio.com",
+    "project_id": "myconfinement-79697",
+    "storage_bucket": "myconfinement-79697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647369768295:android:9355b43f444b9a73d383c2",
+        "android_client_info": {
+          "package_name": "com.myapp.my_confinement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647369768295-pklq3v366dvggbobiqujnkqq13jdkf7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AwA3brRk-qqq_Mc87YddBbdfMVK_mTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647369768295-pklq3v366dvggbobiqujnkqq13jdkf7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
